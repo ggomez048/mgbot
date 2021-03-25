@@ -3,10 +3,10 @@ from time import sleep
 #from credentials import *
 #from config import QUERY, FOLLOW, LIKE, SLEEP_TIME
 
-consumer_key = 'kks6GmyA074vMMWtOmQVVQ7XY'
-consumer_secret = 'kzAhCMmXBFZzX7Qc2WjXz6KdGQ7tOrGkXrtfgJ77IWL9HNCVpd'
-access_token = '1596770023-ulleOXmHe0YyzXY0tEn7ZHAxiGs67WlKCYWFYl1'
-access_token_secret = 'dcDdUIb3H4pIo4NRZjbJmtIRr8JXA4SGN1e57Z1do2VqD'
+consumer_key = 'gkks6GmyA074vMMWtOmQVVQ7XY'
+consumer_secret = 'gkzAhCMmXBFZzX7Qc2WjXz6KdGQ7tOrGkXrtfgJ77IWL9HNCVpd'
+access_token = '11596770023-ulleOXmHe0YyzXY0tEn7ZHAxiGs67WlKCYWFYl1'
+access_token_secret = 'gdcDdUIb3H4pIo4NRZjbJmtIRr8JXA4SGN1e57Z1do2VqD'
 
 QUERY = 'dobleg5_twitch'
 
